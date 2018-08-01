@@ -4,8 +4,8 @@ Section: Tweaks
 Maintainer: YasarKah
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs//nudekeys.deb
-Size: 1090
+Filename: ./debs//NudeKeysdeb
+Size: 1091
 Description: NudeKeys ile klavyenize yeni bir görünüm katın!
 Name: NudeKeys
 Author: YasarKah
