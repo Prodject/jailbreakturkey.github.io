@@ -6,7 +6,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs//nudekeys.deb
 Size: 1090
-MD5sum: 74954907A5C087109D9AD29349CC57B3
+MD5sum: 1EB547E0920CB2B8E6585DE8EB5F6EA6
 Description: NudeKeys ile klavyenize yeni bir görünüm katın!
 Name: NudeKeys
 Author: YasarKah
