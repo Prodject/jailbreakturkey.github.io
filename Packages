@@ -3,8 +3,8 @@ Depiction: https://jailbreakturkey.github.io/depiction/Nudekeys/NudeKeys4.3.html
 Version: 4.3
 Architecture: iphoneos-arm
 Maintainer: YasarKah
-Depends: mobilesubstrate, firmware (>= 11.1.2)
-Filename: deb/NudeKeys.deb
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: deb/com.jailbreakturkey.nudekeys.deb
 Size: 1116386
 MD5sum: F3B0467FA8D6BC062871B70EEB8C8AAB
 SHA1: 8AA5FF7F5087ADCAE37B7D666FEF004E26892CEA
