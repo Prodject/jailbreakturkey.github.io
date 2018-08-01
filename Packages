@@ -1,12 +1,15 @@
 Package: com.jailbreakturkey.NudeKeys
-Version: 4.3
-Section: Tweaks
-Maintainer: YasarKah
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs//NudeKeys.deb
-Description: NudeKeys ile klavyenize yeni bir görünüm katın!
-Name: NudeKeys
-Author: YasarKah
 Depiction: https://jailbreakturkey.github.io/depiction/Nudekeys/NudeKeys4.3.html
-Icon: ./NudeKeys/data/Library/PreferenceBundles/NudeKeys.bundle/NudeKeys.png
+Version: 4.3
+Architecture: iphoneos-arm
+Maintainer: YasarKah
+Depends: mobilesubstrate, firmware (>= 11.3.1)
+Filename: deb/NudeKeys.deb
+Size: 88126
+MD5sum: F3B0467FA8D6BC062871B70EEB8C8AAB
+SHA1: 8AA5FF7F5087ADCAE37B7D666FEF004E26892CEA
+SHA256: 08D1D7E8F5D5AD3832A8BB19EEC603E5DA292A97216854F933DD6EECF606D8A5
+Section: Tweaks
+Description: NudeKeys ile klavyenize yeni bir görünüm katın!
+Author: YasarKah
+Name: NudeKeys
