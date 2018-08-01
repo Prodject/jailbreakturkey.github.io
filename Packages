@@ -6,9 +6,9 @@ Maintainer: YasarKah
 Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: deb/com.jailbreakturkey.nudekeys.deb
 Size: 1116386
-MD5sum: F3B0467FA8D6BC062871B70EEB8C8AAB
-SHA1: 8AA5FF7F5087ADCAE37B7D666FEF004E26892CEA
-SHA256: 08D1D7E8F5D5AD3832A8BB19EEC603E5DA292A97216854F933DD6EECF606D8A5
+MD5sum: f3b0467fa8d6bc062871b70eeb8c8aab
+SHA1: 8aa5ff7f5087adcae37b7d666fef004e26892cea
+SHA256: 08d1d7e8f5d5ad3832a8bb19eec603e5da292a97216854f933dd6eecf606d8a5
 Section: Tweaks
 Description: NudeKeys ile klavyenize yeni bir görünüm katın!
 Author: YasarKah
