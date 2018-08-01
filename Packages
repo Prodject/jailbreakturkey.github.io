@@ -9,4 +9,4 @@ Description: NudeKeys ile klavyenize yeni bir görünüm katın!
 Name: NudeKeys
 Author: YasarKah
 Depiction: https://jailbreakturkey.github.io/depiction/Nudekeys/NudeKeys4.3.html
-Icon: file:///Library/PreferenceBundles/NudeKeys.bundle/NudeKeys.png
+Icon: ./NudeKeys/data/Library/PreferenceBundles/NudeKeys.bundle/NudeKeys.png
