@@ -1,6 +1,6 @@
-Origin: Jailbreak Turkey Repo
+Origin: AppleBetas' Repo
 
-Label: Jailbreak Turkey Repo
+Label: AppleBetas' Repo
 
 Suite: stable
 
@@ -12,4 +12,8 @@ Architectures: iphoneos-arm
 
 Components: main
 
-Description: Birbirinden farklı Türkçeleştirilmiş Tweaks
+Description: A collection of useful tweaks and tools
+
+MD5Sum:
+04f19574a8e6aa51b4310ce341f5442b 15420 Packages
+64136cbb9acd49e20d811b464cdee9f9 5146 Packages.bz2
