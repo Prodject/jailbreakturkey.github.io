@@ -1,0 +1,30 @@
+{
+    "version": "0.5.2",
+    "compatibility": {
+        "miniOS": "9.0"
+    },
+    "dependencies": [
+        "MobileSubstrate",
+        "PreferenceLoader",
+        "Flipswitch",
+        "Cephei"
+    ],
+    "description": [
+        "Android notification drawer for iOS.",
+        "In Beta, Email me issues. Contact me if you are interested in translating."
+    ],
+    "screenshots": [{
+            "description": "Quick settings",
+            "image": "quickToggles.png"
+        },
+        {
+            "description": "Main Panel",
+            "image": "mainPanel.png"
+        },
+        {
+            "description": "Settings",
+            "image": "settings.png"
+        }
+    ],
+    "changelog": "Fix settings crash and gesture inconsistencies."
+}
