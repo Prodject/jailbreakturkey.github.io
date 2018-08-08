@@ -1,8 +1,8 @@
-Origin: ShadeZepheri Repo
-Label: Shade’s Repo
+Origin: Jailbreak Turkey Repo
+Label: Jailbreak Turkey Repo
 Suite: stable
 Version: 1.0
-Codename: shaderepo
+Codename: jailbreakturkeyrepo
 Architectures: iphoneos-arm
 Components: main
-Description: Shade’s Cydia Repository
+Description: Birbirinden farklı Türkçeleştirilmiş Tweaks
