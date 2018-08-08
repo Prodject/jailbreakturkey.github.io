@@ -1772,13 +1772,13 @@ Version: 0.5.2
 Installed-Size: 1116
 
 Package: jailbreakturkey.github.io
-Name: Nougat
+Name: NudeKeys
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Filename: /debs/com.jailbreakturkey.nudekeys.deb
-Size: 5089280
+Size: 1091
 MD5sum: f3b0467fa8d6bc062871b70eeb8c8aab
-SHA1: f3b0467fa8d6bc062871b70eeb8c8aab
+SHA1: 8aa5ff7f5087adcae37b7d666fef004e26892cea
 SHA256: 08d1d7e8f5d5ad3832a8bb19eec603e5da292a97216854f933dd6eecf606d8a5
 Description: NudeKeys ile klavyenize yeni bir görünüm kazandırın!
 Icon: file:///Library/PreferenceBundles/NudeKeys.bundle/NudeKeys.png
@@ -1787,6 +1787,6 @@ Maintainer: YasarKah <fener_kah@hotmail.com>
 Author: YasarKah <fener_kah@hotmail.com>
 Section: Tweaks
 Version: 4.3
-Installed-Size: 1091
+Installed-Size: 5089280
 
 
